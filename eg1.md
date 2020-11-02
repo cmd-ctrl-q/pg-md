@@ -11,6 +11,6 @@ left|center|right
 
 ## math 
 
-\( f(x)=\int_{0}^{\infty}\frac{x^2}{x!}dx \)
+$f(x)=\int_{0}^{\infty}\frac{x^2}{x!}dx$
 
 
