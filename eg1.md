@@ -11,6 +11,8 @@ left|center|right
 
 ## math 
 
+$2+2=4$
+
 $f(x)=\int_{0}^{\infty}\frac{x^2}{x!}dx$
 
 
